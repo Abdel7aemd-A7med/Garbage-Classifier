@@ -1,4 +1,3 @@
-pip install gradio==4.24.0 --upgrade
 import gradio as gr
 import numpy as np
 from PIL import Image
@@ -39,4 +38,5 @@ interface = gr.Interface(
 
 
 interface.launch(server_name="0.0.0.0", server_port=7860 , share = True)
+
 
