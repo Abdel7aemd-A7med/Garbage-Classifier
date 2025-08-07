@@ -72,7 +72,7 @@ Once the container is running, access the app locally at:
 
 ## 📹 Video Demo
 Watch how the model works:  
-🎥 [Google Drive Demo](https://drive.google.com/drive/folders/14BB4r-efFGF2_zOTVdKVdHgvePsSkPTu?hl=ar)
+🎥 [Google Drive Demo]([https://drive.google.com/drive/folders/14BB4r-efFGF2_zOTVdKVdHgvePsSkPTu?hl=ar](https://github.com/Abdel7aemd-A7med/Garbage-Classifier?tab=readme-ov-file))
 
 ---
 
