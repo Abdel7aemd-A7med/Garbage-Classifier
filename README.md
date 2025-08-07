@@ -66,6 +66,8 @@ Once the container is running, access the app locally at:
 
 > ⚠️ `localhost` is for **local testing only** and not accessible remotely.
 
+## Notebook
+  (https://www.kaggle.com/code/abdelhamedahmed2005/garbage-classification)
 ---
 
 ## 📹 Video Demo
