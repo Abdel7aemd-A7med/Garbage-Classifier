@@ -1,4 +1,3 @@
-
 # 🗑️ Garbage Classification Model
 
 This project is a deep learning model designed to classify garbage into 10 distinct categories using images.  
@@ -66,17 +65,18 @@ Once the container is running, access the app locally at:
 
 > ⚠️ `localhost` is for **local testing only** and not accessible remotely.
 
-## Notebook
-  (https://www.kaggle.com/code/abdelhamedahmed2005/garbage-classification)
+## 📓 Notebook
+🔗 [View on Kaggle](https://www.kaggle.com/code/abdelhamedahmed2005/garbage-classification)
+
 ---
 
-## 📹 Video Demo
+## 📹 Video Demo  
 Watch how the model works:  
-🎥 [Google Drive Demo]([https://drive.google.com/drive/folders/14BB4r-efFGF2_zOTVdKVdHgvePsSkPTu?hl=ar](https://github.com/Abdel7aemd-A7med/Garbage-Classifier?tab=readme-ov-file))
+🎥 [Google Drive Demo](https://drive.google.com/file/d/1QI5EL0ExI8V7jYgFyjWBzCFnYRna1Kd8/view?usp=drive_link)
 
 ---
 
-## 📊 Presentation
+## 📊 Presentation  
 Check the project presentation:  
 🎞️ [View on Canva](https://www.canva.com/design/DAGvNRwc0Ek/E2qasZn5NQI6407GQfOkhg/edit)
 
